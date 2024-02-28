@@ -18,7 +18,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="marcelo-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
+![61fa9391eec4c40004bacd6b](https://github.com/marcelo3519/marcelo3519/assets/121467600/eed97d8a-50c0-46ed-a242-e5a1b292cc7e)
   <img align="center" alt="marcelo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Roney-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
     

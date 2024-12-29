@@ -1,10 +1,10 @@
 ## Marcelo Andrade Bortolotto
 - 👨‍🎓 Análise em Desenvolvimento de Sistemas - Faculdade Anhanguera.
-- 🤹 Estou buscando oportunidades para colaborar e aprimorar meus estudos em programação, com foco especial em Python e SAP ABAP.
+- 🤹 Estou buscando oportunidades para colaborar e aprimorar meus estudos em programação, com foco especial em Python e cloud computing.
 - 📫 marcelobortolotto78@gmail.com
 - 📚💻 Concurseiro e entusiasta de estudos e certificações.
 
-- Profissional com uma trajetória consolidada de vários anos no setor automotivo, onde desempenhei papéis-chave em gestão, operações e estratégia. Motivado por uma paixão crescente pela tecnologia e inovação, estou atualmente em transição para a área de programação. Minha experiência anterior proporcionou uma sólida base em resolução de problemas, liderança de equipes e tomada de decisões estratégicas. Busco aplicar essas competências transferíveis no contexto da programação, enquanto estou comprometido em adquirir novas habilidades e conhecimentos necessários para prosperar nesse ambiente dinâmico. Estou confiante de que minha experiência diversificada e habilidades analíticas serão ativos valiosos nesta nova fase da minha carreira.
+- Profissional com uma trajetória consolidada de vários anos no setor automotivo, onde desempenhei papéis-chave em gestão, operações e estratégia. Motivado por uma paixão crescente pela tecnologia e inovação, estou atualmente em transição para a área de programação e cloud computing. Minha experiência anterior proporcionou uma sólida base em resolução de problemas, liderança de equipes e tomada de decisões estratégicas. Busco aplicar essas competências transferíveis no contexto da programação, enquanto estou comprometido em adquirir novas habilidades e conhecimentos necessários para prosperar nesse ambiente dinâmico. Estou confiante de que minha experiência diversificada e habilidades analíticas serão ativos valiosos nesta nova fase da minha carreira.
 
 ##
 
